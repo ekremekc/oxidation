@@ -1,1 +1,2 @@
-# oxidation
+# Oxygen diffusion in thermoelectric materials 
+This repository contains the numerical implementation of the results obtained in the submission titled "Modelling oxidation kinetics of half-Heusler thermoelectric materials and role of protective coatings".
